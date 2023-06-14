@@ -2,7 +2,7 @@
 
 ## Important Links
 
-- Hey everyone, I am Sukull, one of the speaker for today, a Full Stack JavaScript Specialist and an Open Source Enthusiast! 😁
+- Hey everyone, I am Sukull, one of the speaker for today, a Cloud Architect and an Open Source Enthusiast! 😁
 
 ## Important Commands
 
