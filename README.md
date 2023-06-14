@@ -1,4 +1,4 @@
-# Coding Ninjas ChatBot
+# ChatBot
 
 ## Important Links
 
